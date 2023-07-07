@@ -20,8 +20,7 @@ improve segmentation accuracy and address binary semantic segmentation problems.
 
 ## Google Colab Demo
 
-![1](https://github.com/Deepchavda007/Billboard-Segmentation-using-Segformer/assets/82630272/a099d4c5-9691-41ea-8d0c-9e98dfd910db)
-[](https://colab.research.google.com/github/Deepchavda007/Billboard-Segmentation-using-Segformer/blob/main/Billboard_Segmentation.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Deepchavda007/Billboard-Segmentation-using-Segformer/blob/main/Billboard_Segmentation.ipynb)
 
 ## Evaluation Graph
 ![train_eval_plot_segformer-5-b1](https://github.com/Deepchavda007/Billboard-Segmentation-using-Segformer/assets/82630272/46913fdc-154a-45f5-8090-e8d2858dfde4)
