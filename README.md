@@ -29,6 +29,13 @@ improve segmentation accuracy and address binary semantic segmentation problems.
 ![test_5](https://github.com/Deepchavda007/Billboard-Segmentation-using-Segformer/assets/82630272/180e5d2b-2f3d-4e2a-bad6-5c3a746de3af)
 ![test_4](https://github.com/Deepchavda007/Billboard-Segmentation-using-Segformer/assets/82630272/c240f459-f01a-4160-81e3-f3e0de64591c)
 
+## Final Result
+![1](https://github.com/Deepchavda007/Billboard-Segmentation-using-Segformer/assets/82630272/7c9a5ec5-ebe1-40fd-a855-f5e212b3f7b9)
+![final_image_1](https://github.com/Deepchavda007/Billboard-Segmentation-using-Segformer/assets/82630272/13a6358c-bbcf-47df-bfdf-d048140e34b1)
+
+![22](https://github.com/Deepchavda007/Billboard-Segmentation-using-Segformer/assets/82630272/ea025abc-d9a7-47da-9861-da88444bf183)
+![final_image_0](https://github.com/Deepchavda007/Billboard-Segmentation-using-Segformer/assets/82630272/661f522a-4fe2-4261-aaa7-50f2e531c7e6)
+
 
 
 
