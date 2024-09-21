@@ -25,7 +25,7 @@ The dataset is structured as follows:
 ```
 
 You can download the dataset from the following link:
-- [Billboard Dataset](https://github.com/Deepchavda007/Billboard-Segmentation-using-Segformer/tree/main/Dataset)
+- [Billboard Dataset](https://drive.google.com/drive/folders/1umZfdIY24rsAeupfPlATWtvL-rLyTbzV?usp=sharing)
 
 ---
 
@@ -33,7 +33,7 @@ You can download the dataset from the following link:
 
 To train the Segformer model for billboard segmentation, you can follow along with the Google Colab notebook linked below. The notebook provides step-by-step instructions for data preprocessing, model training, and evaluation.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Deepchavda007/Billboard-Segmentation-using-Segformer/blob/main/Billboard_Segmentation.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Deepchavda007/Billboard-Segmentation-using-Segformer/blob/main/notebook/Billboard_Segmentation.ipynb)
 
 ---
 
