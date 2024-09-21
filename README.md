@@ -109,7 +109,7 @@ python3 app.py
   - The application provides the following endpoints:
 ### /transform_image
 - **Method**: POST
-- **Description**: This endpoint removes the background from an image provided via a public URL and returns a URL to the processed image stored in Amazon S3 along with a unique identifier.
+- **Description**: This endpoint removes the background from a billboard and replaces it with the provided image, using perspective transformation to adjust the replacement image to fit the billboard's orientation and perspective.
 - **Request Body**:
   ```json
    {
