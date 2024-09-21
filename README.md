@@ -52,7 +52,7 @@ This project is split into two key sections:
 1. **Training**: We fine-tune the Segformer model on a custom Indian billboard dataset using semantic segmentation techniques.
 2. **API for Billboard Replacement**: Once the billboards are segmented, the API provides a method to replace billboards using a **perspective transformation** approach to accurately fit new content onto existing billboards.
 
-For details on training the model, follow the dedicated [Training README](https://github.com/Deepchavda007/Billboard-Segmentation-using-Segformer) and explore the [Google Colab Notebook](https://colab.research.google.com/github/Deepchavda007/Billboard-Segmentation-using-Segformer/blob/main/Billboard_Segmentation.ipynb) for downstream tasks.
+For details on training the model, follow the dedicated [Training README](https://github.com/Deepchavda007/Billboard-Segmentation-using-Segformer/blob/main/notebook/README.md) and explore the [Google Colab Notebook]([https://colab.research.google.com/github/Deepchavda007/Billboard-Segmentation-using-Segformer/blob/main/Billboard_Segmentation.ipynb](https://github.com/Deepchavda007/Billboard-Segmentation-using-Segformer/blob/main/notebook/Billboard_Segmentation.ipynb)) for downstream tasks.
 
 ## Prerequisites
 - Ensure you have Git installed on your system.
@@ -130,7 +130,7 @@ python3 app.py
     ```
 ## Training Setup
 
-For those interested in training or fine-tuning the Segformer model, follow the dedicated training instructions in the [Training README](https://github.com/Deepchavda007/Billboard-Segmentation-using-Segformer) or use the provided [Google Colab Notebook](https://colab.research.google.com/github/Deepchavda007/Billboard-Segmentation-using-Segformer/blob/main/Billboard_Segmentation.ipynb) for downstream tasks such as segmentation and billboard replacement.
+For those interested in training or fine-tuning the Segformer model, follow the dedicated training instructions in the [Training README](https://github.com/Deepchavda007/Billboard-Segmentation-using-Segformer/blob/main/notebook/README.md) or use the provided [Google Colab Notebook](https://github.com/Deepchavda007/Billboard-Segmentation-using-Segformer/blob/main/notebook/Billboard_Segmentation.ipynb) for downstream tasks such as segmentation and billboard replacement.
 
 ## File Structure
 The directory structure of the codebase is organized as follows:
