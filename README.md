@@ -115,12 +115,12 @@ python3 app.py
    {
     "original_image_url": "https://example.com/original.png",
     "replacement_image_url": "https://example.com/replacement.png"
-  }
+   }
   ```
 - **Response**:
   - **Success**:
      ```json
-     {
+    {
         "data": {
             "url": "https://s3.amazonaws.com/bucketname/path/to/transformed_image.png"
         },
