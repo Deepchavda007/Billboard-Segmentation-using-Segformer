@@ -127,6 +127,10 @@ python3 app.py
     }
     ```
   
+### Demo 
+
+https://github.com/user-attachments/assets/85e492ff-0ca4-4734-965f-1a41aa8dcd27
+
 ### Training
 
 For those interested in training or fine-tuning the Segformer model, follow the dedicated training instructions in the [Training README](https://github.com/Deepchavda007/Billboard-Segmentation-using-Segformer/blob/main/notebook/README.md) or use the provided [Google Colab Notebook](https://github.com/Deepchavda007/Billboard-Segmentation-using-Segformer/blob/main/notebook/Billboard_Segmentation.ipynb) for downstream tasks such as segmentation and billboard replacement.
